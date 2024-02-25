@@ -59,8 +59,3 @@ Source link for [MIT](https://opensource.org/licenses/MIT)
 
 There are currently no tests for this application.  
 
-## Contact
-
-[GitHub Profile](https://github.com/2015johngtz/Model-View-Controller-MVC-Challenge)
-
-Email Me -- 1998johngtz@gmail.com
